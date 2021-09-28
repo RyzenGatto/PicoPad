@@ -14,3 +14,9 @@ Display Software/Guide: https://www.tomshardware.com/how-to/oled-display-raspber
 # Notes
 The ultimate end goal of this is to be able to control everything in my room with a singe, detachable keypad (meaning battery support will be coming soon)
 There is still much to do and this is currently untested, but feel free to modify it in anyway you'd like (within the licance)
+
+# To do List
+Add a Smart Switch for my lights
+Add rechargeable battery
+Create a 3D printed case
+Hands on Test
