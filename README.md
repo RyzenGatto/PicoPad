@@ -17,6 +17,9 @@ There is still much to do and this is currently untested, but feel free to modif
 
 # To do List
 Add a Smart Switch for my lights
+
 Add rechargeable battery
+
 Create a 3D printed case
+
 Hands on Test
